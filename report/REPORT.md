@@ -8,7 +8,7 @@
 
 **Checkpoint:** `yolo11n-cls.pt`, `yolo11n.pt`, `yolo11n-seg.pt`
 
-**Thay đổi so với notebook nguồn:** Không
+**Thay đổi so với notebook nguồn:** Có – thêm một cell hỗ trợ đọc evidence và tạo REPORT.md; không thay đổi model hoặc các output evidence gốc.
 
 ## 1. Phân loại ảnh – prediction cấp ảnh
 
